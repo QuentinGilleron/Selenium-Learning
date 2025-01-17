@@ -1,0 +1,17 @@
+1. Aller sur demoqa.com
+
+2. Eléments > Check box > Sélectionner tous les éléments SAUF Office et Excel file.doc
+
+3. Aller sur Web tables et supprimer les deux premières lignes et modifier le salaire de celle restante 10000 > 4300 et submit (vérifier que la valeur est bonne)
+
+4. Cliquer sur «Alerts, frame et windows » et ouvrez new tab et fermer la fenêtre
+
+5. Cliquer sur Modal dialogs et vérifier que dans large dialogue il y a 4 fois le terme « lorem ipsum »
+
+6. Basculer sur Widgets > bouton Start et assure toi qu’il finisse à 100%
+
+7. Toujours sur widgets, assurez vous d’aller sur main item 2 > sub sub list et clique sur sub sub item 2  
+
+8. Ensuite sur select menu «Select value »  choisi Another root option / Select one « other » / Old style select menu « aqua » / multi select drop down « red » et « black »
+
+9. Esuite bascule sur book store application > book store et recherche « Marijn Haverbeke » et assure-toi que le livre est bien afficher

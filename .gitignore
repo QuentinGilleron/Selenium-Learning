@@ -1,0 +1,24 @@
+# Fichiers et dossiers de build
+target/
+build/
+out/
+bin/
+*.class
+
+# Fichiers de configuration d'IDE
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+.pytest_cache/
+
+# Fichiers de log
+*.log
+
+# Systèmes d'exploitation
+.DS_Store
+Thumbs.db
